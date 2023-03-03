@@ -1,4 +1,3 @@
-// import { GroupExpenses } from "../classes/GroupExpenses.js";
 
 class GroupExpenses {
   title;
